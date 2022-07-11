@@ -81,7 +81,8 @@
   digestif
   ppx_deriving_yojson
   yojson
-  timedesc
+  (timedesc
+   (= 0.6.0))
   ; tools/ood-gen
   piaf
   ppx_deriving_yaml
